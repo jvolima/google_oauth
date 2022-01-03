@@ -1,4 +1,4 @@
-# API que utiliza o google oauth para autenticar usuários
+# API que utiliza Google OAuth para autenticar usuários
 
 ## Como utilizar
 - Crie um projeto no google cloud platform 
